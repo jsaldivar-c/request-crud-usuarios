@@ -4,8 +4,6 @@
 
 Ejemplo basico de CRUD mediante peticiones HTTP.
 
-Link: <a href="https://jsaldivar-c.github.io/request-crud-usuarios/" target="_blank">CRUD Usuarios</a>
-
 ### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
 > -   Framework **Bootstrap**
