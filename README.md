@@ -1,24 +1,25 @@
-## Webpack
----
+# **CRUD Usuarios | Request JavaScript**
 
-Este es el proyecto inicial para crear aplicaciones **webpack**.
+![Texto opcional](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601939023/crud-usuarios-request_vxm29v.png "CRUD Usuarios")
 
-### Como utilizar la base de webpack
+Ejemplo basico de CRUD mediante peticiones HTTP.
 
-> - Descargar el repositorio.
-> - Reconstruir los modulos de **Node**.
+Link: [CRUD Usuarios](https://jsaldivar-c.github.io/request-crud-usuarios/).
 
-```sh
-npm install
-```
-> - Construir el **Build** de producción.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-```sh
-npm run build
-```
+> -   Framework **Bootstrap**
+> -   JavaScript ES6
 
-> - Construir el **Build** de desarrollo.
+### **Caracterisiticas**
 
-```sh
-npm run build:dev
-```
+> -   Peticiones HTTP.
+> -   Uso de Fetch.
+> -   Subida de archivos a Cloudinary.
+> -   Manipulación del DOM.
+
+### Autor
+
+Desarrollado en el curso _**Udemy | JavaScript Moderno | Fernando Herrera**_
+
+Modificaciones basicas y realización de la practica: _**José Saldivar**_
