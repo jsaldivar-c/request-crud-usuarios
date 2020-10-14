@@ -1,6 +1,6 @@
 # **CRUD Usuarios | Request JavaScript**
 
-![Texto opcional](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601939023/crud-usuarios-request_vxm29v.png "CRUD Usuarios")
+![Texto opcional](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601939023/GitHub/crud-usuarios-request_vxm29v.png "CRUD Usuarios")
 
 Ejemplo basico de CRUD mediante peticiones HTTP.
 
